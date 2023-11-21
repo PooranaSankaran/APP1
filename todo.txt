@@ -1,3 +1,2 @@
 yeardate
-how are you
-bad
+good
