@@ -1,8 +1,3 @@
-new
-clean
-wash
-clean
-show
-hi
-hello
-good morning
+yeardate
+how are you
+bad
