@@ -1,0 +1,8 @@
+new
+clean
+wash
+clean
+show
+hi
+hello
+good morning
